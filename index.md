@@ -23,9 +23,9 @@ I am broadly interested in Stochastic PDEs, Rough Paths, Mathematical Finance an
     <div class="row-fluid">
         <div class="span5">
             Prakash Chakraborty<br/>
-            Email: <a href="mailto:chakra15@purdue.edu">chakra15@purdue.edu</a><br/>
+            Email: <a href="mailto:cprakash@umich.edu">cprakash@umich.edu</a><br/>
             Office: MATH 535<br/>
-            Address: 250 N. University St, West Lafayette, IN 47907<br/>
+            Address: 530 Church St, Ann Arbor, MI 48109<br/>
         </div>
 
         <div class="span2">
