@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Prakash Chakraborty
-description: Prakash Chakraborty is a PhD candidate at Purdue University. 
-keywords: Prakash Chakraborty Purdue, Prakash, Chakraborty, Purdue, probability, stochastic processes, rough path theory, operations research, Samy Tindel, Harsha Honnappa, Kiseop Lee 
+description: Prakash Chakraborty is a Byrne Research Assistant Professor at University of Michigan. 
+keywords: Prakash Chakraborty Purdue, Prakash, Chakraborty, University of Michigan, mathematical finance, applied probability, probability, stochastic processes, rough path theory, operations research, Erhan Bayraktar, Samy Tindel, Harsha Honnappa, Kiseop Lee 
 ---
 
 I am a Byrne Research (Postdoctoral) Assistant Professor in the <a href="https://lsa.umich.edu/math">Department of Mathematics</a> at <a href="https://umich.edu">University of Michigan</a> working with Professor <a href="https://sites.lsa.umich.edu/erhan/">Erhan Bayraktar</a>. 
