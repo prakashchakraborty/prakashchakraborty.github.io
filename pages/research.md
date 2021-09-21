@@ -16,11 +16,11 @@ My future plans are as follows:
 
 These could be achieved by considering different models arising out of applications in engineering, science and economics. 
 
-<h3>Publications, Preprints and Working Papers</h3>
+<h3>Publications and Preprints</h3>
 
-1. Pricing  Method For Spread, Basket, and Asian Options Under The Presence Of Jumps In Price Process, **with Kiseop Lee** (Ongoing).
+1. Mean field control and finite agent approximation for regime-switching jump diffusions, **(with Erhan Bayraktar)**, Submitted, <a href="https://arxiv.org/abs/2109.09134">arXiv</a>. 
 
-2. Path Confinement For The Continuous Polymer Measure, **(with Samy Tindel)** (Ongoing).
+2. Optimal Dividends under Model Uncertainty, **(with Asaf Cohen and Virginia R. Young)**, Submitted, <a href="https://arxiv.org/abs/2109.09137">arXiv</a>
 
 3. A Many-Server Functional Strong Law For A Non-Stationary Loss Model, **(with Harsha Honnappa)** , Submitted, <a href="https://arxiv.org/abs/1912.13067">arXiv</a>.
 
