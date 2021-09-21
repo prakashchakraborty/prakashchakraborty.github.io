@@ -20,7 +20,7 @@ These could be achieved by considering different models arising out of applicati
 
 1. Mean field control and finite agent approximation for regime-switching jump diffusions, **(with Erhan Bayraktar)**, Submitted, <a href="https://arxiv.org/abs/2109.09134">arXiv</a>. 
 
-2. Optimal Dividends under Model Uncertainty, **(with Asaf Cohen and Virginia R. Young)**, Submitted, <a href="https://arxiv.org/abs/2109.09137">arXiv</a>
+2. Optimal Dividends under Model Uncertainty, **(with Asaf Cohen and Virginia R. Young)**, Submitted, <a href="https://arxiv.org/abs/2109.09137">arXiv</a>.
 
 3. A Many-Server Functional Strong Law For A Non-Stationary Loss Model, **(with Harsha Honnappa)** , Submitted, <a href="https://arxiv.org/abs/1912.13067">arXiv</a>.
 
