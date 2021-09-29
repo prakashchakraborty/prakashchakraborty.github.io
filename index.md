@@ -5,7 +5,7 @@ description: Prakash Chakraborty is a Byrne Research Assistant Professor at Univ
 keywords: Prakash Chakraborty Purdue, Prakash, Chakraborty, University of Michigan, mathematical finance, applied probability, probability, stochastic processes, rough path theory, operations research, Erhan Bayraktar, Samy Tindel, Harsha Honnappa, Kiseop Lee 
 ---
 
-I am a Byrne Research (Postdoctoral) Assistant Professor in the <a href="https://lsa.umich.edu/math">Department of Mathematics</a> at <a href="https://umich.edu">University of Michigan</a> where my mentor is Professor <a href="https://sites.lsa.umich.edu/erhan/">Erhan Bayraktar</a>. 
+I am a Byrne Research (Postdoctoral) Assistant Professor in the <a href="https://lsa.umich.edu/math">Department of Mathematics</a> at <a href="https://umich.edu">University of Michigan</a> where I work with Professors <a href="https://sites.lsa.umich.edu/erhan/">Erhan Bayraktar</a>, <a href="https://sites.google.com/site/asafcohentau/">Asaf Cohen</a> and <a href="https://lsa.umich.edu/math/people/faculty/vryoung.html">Virginia Young</a>. 
 
 I got my PhD in 2020 from the <a href="https://www.stat.purdue.edu/">Department of Statistics</a> at <a href="https://www.purdue.edu/">Purdue University</a>, advised by Professors <a href="https://www.math.purdue.edu/~stindel/">Samy Tindel</a>, <a href="https://www.stat.purdue.edu/~kiseop/">Kiseop Lee</a> and <a href="https://engineering.purdue.edu/SSL/about">Harsha Honnappa</a>. 
 
