@@ -22,9 +22,9 @@ These could be achieved by considering different models arising out of applicati
 
 2. Optimal Dividends under Model Uncertainty, **(with Asaf Cohen and Virginia R. Young)**, Submitted, <a href="https://arxiv.org/abs/2109.09137">arXiv</a>.
 
-3. A Many-Server Functional Strong Law For A Non-Stationary Loss Model, **(with Harsha Honnappa)** , Submitted, <a href="https://arxiv.org/abs/1912.13067">arXiv</a>.
+3. A Many-Server Functional Strong Law For A Non-Stationary Loss Model, **(with Harsha Honnappa)**, Operations Research Letters (2021), <a href="https://doi.org/10.1016/j.orl.2021.03.004">Journal</a>, <a href="https://arxiv.org/abs/1912.13067">arXiv</a>.
 
-4. Bond Prices with Insufficient Information, **(with Kiseop Lee)**, Submitted, <a href="mailto:chakra15@purdue.edu">Manuscript available on request</a>
+4. Bond Prices with Insufficient Information, **(with Kiseop Lee)**, Accepted with minor revisions, <a href="mailto:chakra15@purdue.edu">Manuscript available on request</a>
 
 5. Relativistic Stable Processes in Quasi-ballistic Heat conduction in thin film Semiconductors, **(with Ali Shakouri, Samy Tindel and Bjorn Vermeersch)**, Physical Review E (2020), <a href="https://doi.org/10.1103/PhysRevE.101.042110">Journal</a>, <a href="https://arxiv.org/abs/1907.12676">arXiv</a>. 
 
