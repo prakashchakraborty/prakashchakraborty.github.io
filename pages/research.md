@@ -10,7 +10,7 @@ description: Prakash Chakraborty's research
 
 My future plans are as follows:
 
-1. Make contributions in the study, control and applications of stochastic dynamical systems which may involve a wider variety of stochastic processes and noises than Brownian motions. A relatively new approach in this regard is Rough Paths which offers a new perspective to stochastic calculus.
+1. Make contributions in the study, control and applications of stochastic dynamical systems which may involve a wider variety of stochastic processes and noises than Brownian motions. A relatively new approach in this regard is Rough Paths which offers a new perspective to stochastic calculus. The theory of rough paths is also increasingly becoming popular in machine learning.
 
 2. Scaling limits which arise when one studies at some macroscopic length scale the properties of some possibly interacting microscopic stochastic dynamic systems and their optimal control. The limiting process and optimal value function often tends to have nice properties exhibiting propagation of chaos, symmetry or characterization in terms of fewer parameters, thus providing practical useful approximations to the often complicated microscopic stochastic systems.
 
