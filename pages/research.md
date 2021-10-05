@@ -28,7 +28,7 @@ These could be achieved by considering different models arising out of applicati
 
 5. Relativistic Stable Processes in Quasi-ballistic Heat conduction in thin film Semiconductors, **(with Ali Shakouri, Samy Tindel and Bjorn Vermeersch)**, Physical Review E (2020), <a href="https://doi.org/10.1103/PhysRevE.101.042110">Journal</a>, <a href="https://arxiv.org/abs/1907.12676">arXiv</a>. 
 
-6. Strong Embeddings for Transitory Queueing Model, **(with Harsha Honnappa)**, Submitted, 
+6. Strong Embeddings for Transitory Queueing Model, **(with Harsha Honnappa)**, Accepted with minor revisions at Mathematics of Operations Research, 
 <a href="https://arxiv.org/abs/1906.06740">arXiv</a>.
 
 7. Quenched asymptotics for a 1-d stochastic heat equation driven by a rough spatial noise, **(with Xia Chen,  Bo Gao and Samy Tindel)**, 
