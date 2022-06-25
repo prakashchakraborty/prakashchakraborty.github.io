@@ -4,6 +4,8 @@ title: Teaching
 description: Prakash Chakraborty's teaching
 ---
 
+**Winter 2022: Instructor, Math 526: Discrete State Stochastic Processes (University of Michigan).**
+
 **Fall 2021: Instructor, Math 472: Numerical Methods with Financial Applications (University of Michigan).**
 
 **Winter 2021: Instructor, Math 526: Discrete State Stochastic Processes (University of Michigan).**
