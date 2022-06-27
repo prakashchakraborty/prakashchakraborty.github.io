@@ -26,8 +26,9 @@ I am broadly interested in Stochastic PDEs, Rough Paths, Mathematical Finance an
         <div class="span5">
             Prakash Chakraborty<br/>
             Email: <a href="mailto:cprakash@umich.edu">cprakash@umich.edu</a><br/>
-            Office: 2859 East Hall<br/>
-            Address: 530 Church St, Ann Arbor, MI 48109<br/>
+            Office: 206 Leonhard Building<br/>
+	    Phone: 814-863-2360
+            Address: 310 Leonhard Building, The Pennsylvania State University, University Park, PA 16802-4400<br/>
         </div>
 
         <div class="span2">
