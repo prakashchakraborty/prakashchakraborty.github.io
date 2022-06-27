@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Prakash Chakraborty
-description: Prakash Chakraborty is a Byrne Research Assistant Professor at University of Michigan. 
-keywords: Prakash Chakraborty Purdue, Prakash, Chakraborty, University of Michigan, mathematical finance, applied probability, probability, stochastic processes, rough path theory, operations research, Erhan Bayraktar, Samy Tindel, Harsha Honnappa, Kiseop Lee 
+description: Prakash Chakraborty is an Assistant Professor at Penn State. 
+keywords: Prakash Chakraborty Purdue, Prakash, Chakraborty, Pennsylvania State University, mathematical finance, applied probability, probability, stochastic processes, rough path theory, operations research, Samy Tindel, Harsha Honnappa, Asaf Cohen, Kiseop Lee 
 ---
 
 From July 2022, I will be an Assistant Professor in the <a href="https://www.ime.psu.edu/">Harold and Inge Marcus Department of Industrial and Manufacturing Engineering</a> at <a href="https://www.psu.edu/">The Pennsylvania State University</a>.
