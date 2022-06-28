@@ -27,7 +27,6 @@ I am broadly interested in Stochastic PDEs, Rough Paths, Mathematical Finance an
             Prakash Chakraborty<br/>
             Email: <a href="mailto:prakashc@psu.edu">prakashc@psu.edu</a><br/>
             Office: 206 Leonhard Building<br/>
-	    Phone: 814-863-2360
             Address: 310 Leonhard Building, The Pennsylvania State University, University Park, PA 16802-4400<br/>
         </div>
 
