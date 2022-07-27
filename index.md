@@ -5,9 +5,9 @@ description: Prakash Chakraborty is an Assistant Professor at Penn State.
 keywords: Prakash Chakraborty Purdue, Prakash, Chakraborty, Pennsylvania State University, mathematical finance, applied probability, probability, stochastic processes, rough path theory, operations research, Samy Tindel, Harsha Honnappa, Asaf Cohen, Kiseop Lee 
 ---
 
-From July 2022, I will be an Assistant Professor in the <a href="https://www.ime.psu.edu/">Harold and Inge Marcus Department of Industrial and Manufacturing Engineering</a> at <a href="https://www.psu.edu/">The Pennsylvania State University</a>.
+I am an Assistant Professor in the <a href="https://www.ime.psu.edu/">Harold and Inge Marcus Department of Industrial and Manufacturing Engineering</a> at <a href="https://www.psu.edu/">The Pennsylvania State University</a>.
 
-Previously I was a Byrne Research (Postdoctoral) Assistant Professor in the <a href="https://lsa.umich.edu/math">Department of Mathematics</a> at <a href="https://umich.edu">University of Michigan</a> where I worked with Professors <a href="https://sites.lsa.umich.edu/erhan/">Erhan Bayraktar</a>, <a href="https://sites.google.com/site/asafcohentau/">Asaf Cohen</a> and <a href="https://lsa.umich.edu/math/people/faculty/vryoung.html">Virginia R. Young</a>. 
+Previously I was a Byrne Research (Postdoctoral) Assistant Professor in the <a href="https://lsa.umich.edu/math">Department of Mathematics</a> at <a href="https://umich.edu">University of Michigan</a>. <!--where I worked with Professors <a href="https://sites.lsa.umich.edu/erhan/">Erhan Bayraktar</a>, <a href="https://sites.google.com/site/asafcohentau/">Asaf Cohen</a> and <a href="https://lsa.umich.edu/math/people/faculty/vryoung.html">Virginia R. Young</a>. -->
 
 I got my PhD in 2020 from the <a href="https://www.stat.purdue.edu/">Department of Statistics</a> at <a href="https://www.purdue.edu/">Purdue University</a>, advised by Professors <a href="https://www.math.purdue.edu/~stindel/">Samy Tindel</a>, <a href="https://www.stat.purdue.edu/~kiseop/">Kiseop Lee</a> and <a href="https://engineering.purdue.edu/SSL/about">Harsha Honnappa</a>. 
 
