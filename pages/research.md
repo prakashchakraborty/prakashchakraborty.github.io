@@ -18,7 +18,7 @@ These could be achieved by considering different models arising out of applicati
 
 <h3>Publications and Preprints</h3>
 
-1. Bond Prices Under Information Asymmetry and a Short Rate with Instantaneous Feedback, **(with Kiseop Lee)**, Methodology and Computing in Applied Probability (2022) 24 (2), 613-634, <a href="[https://doi.org/10.1093/hmg/ddv051](https://doi.org/10.1007/s11009-021-09922-1)">Journal</a>.
+1. Bond Prices Under Information Asymmetry and a Short Rate with Instantaneous Feedback, **(with Kiseop Lee)**, Methodology and Computing in Applied Probability (2022) 24 (2), 613-634, <a href="https://doi.org/10.1093/hmg/ddv051](https://doi.org/10.1007/s11009-021-09922-1">Journal</a>.
 
 
 2. Strong Embeddings for Transitory Queueing Model, **(with Harsha Honnappa)**, Mathematics of Operations Research (2022) 47 (2), 1048-1081, 
