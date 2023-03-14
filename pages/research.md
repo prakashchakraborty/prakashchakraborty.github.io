@@ -18,27 +18,30 @@ These could be achieved by considering different models arising out of applicati
 
 <h3>Publications and Preprints</h3>
 
-1. Mean field control and finite agent approximation for regime-switching jump diffusions, **(with Erhan Bayraktar)**, Submitted, <a href="https://arxiv.org/abs/2109.09134">arXiv</a>. 
+1. Bond Prices Under Information Asymmetry and a Short Rate with Instantaneous Feedback, **(with Kiseop Lee)**, Methodology and Computing in Applied Probability (2022) 24 (2), 613-634, <a href="[https://doi.org/10.1093/hmg/ddv051](https://doi.org/10.1007/s11009-021-09922-1)">Journal</a>.
 
-2. Optimal Dividends under Model Uncertainty, **(with Asaf Cohen and Virginia R. Young)**, Submitted, <a href="https://arxiv.org/abs/2109.09137">arXiv</a>.
 
-3. A Many-Server Functional Strong Law For A Non-Stationary Loss Model, **(with Harsha Honnappa)**, Operations Research Letters (2021), <a href="https://doi.org/10.1016/j.orl.2021.03.004">Journal</a>, <a href="https://arxiv.org/abs/1912.13067">arXiv</a>.
-
-4. Bond Prices with Insufficient Information, **(with Kiseop Lee)**, Accepted with minor revisions, <a href="mailto:chakra15@purdue.edu">Manuscript available on request</a>
-
-5. Relativistic Stable Processes in Quasi-ballistic Heat conduction in thin film Semiconductors, **(with Ali Shakouri, Samy Tindel and Bjorn Vermeersch)**, Physical Review E (2020), <a href="https://doi.org/10.1103/PhysRevE.101.042110">Journal</a>, <a href="https://arxiv.org/abs/1907.12676">arXiv</a>. 
-
-6. Strong Embeddings for Transitory Queueing Model, **(with Harsha Honnappa)**, Accepted with minor revisions at Mathematics of Operations Research, 
+2. Strong Embeddings for Transitory Queueing Model, **(with Harsha Honnappa)**, Mathematics of Operations Research (2022) 47 (2), 1048-1081, 
 <a href="https://arxiv.org/abs/1906.06740">arXiv</a>.
 
+3. Mean field control and finite agent approximation for regime-switching jump diffusions, **(with Erhan Bayraktar)**, Submitted, <a href="https://arxiv.org/abs/2109.09134">arXiv</a>. 
+
+4. Optimal Dividends under Model Uncertainty, **(with Asaf Cohen and Virginia R. Young)**, Submitted, <a href="https://arxiv.org/abs/2109.09137">arXiv</a>.
+
+5. A Many-Server Functional Strong Law For A Non-Stationary Loss Model, **(with Harsha Honnappa)**, Operations Research Letters (2021), <a href="https://doi.org/10.1016/j.orl.2021.03.004">Journal</a>, <a href="https://arxiv.org/abs/1912.13067">arXiv</a>.
+
+6. Relativistic Stable Processes in Quasi-ballistic Heat conduction in thin film Semiconductors, **(with Ali Shakouri, Samy Tindel and Bjorn Vermeersch)**, Physical Review E (2020), <a href="https://doi.org/10.1103/PhysRevE.101.042110">Journal</a>, <a href="https://arxiv.org/abs/1907.12676">arXiv</a>. 
+
 7. Quenched asymptotics for a 1-d stochastic heat equation driven by a rough spatial noise, **(with Xia Chen,  Bo Gao and Samy Tindel)**, 
-Available online: Stochastic Processes and their Applications (2020), <a href="https://doi.org/10.1016/j.spa.2020.06.007">Journal</a>, <a href="https://arxiv.org/abs/1810.04212">arXiv</a>. 
+Stochastic Processes and their Applications (2020) 130 (11), 6689-6732, <a href="https://doi.org/10.1016/j.spa.2020.06.007">Journal</a>, <a href="https://arxiv.org/abs/1810.04212">arXiv</a>. 
 
-8. Tiered Spectrum Measurement Markets for  joint Licensed and Unlicensed Secondary Access, **(with Arnob Ghosh and Vaneet Aggarwal)**, IEEE Transactions on Network Science and Engineering (2019), <a href="https://doi.org/10.1109/TNSE.2019.2921782">Journal</a>. 
+8. Contributions to Rough Paths and Stochastic PDEs (2020), Purdue University Graduate School, <a href="https://hammer.purdue.edu/articles/thesis/Contributions_to_Rough_Paths_and_Stochastic_PDEs/12720878">Link</a>.
 
-9. Rough Differential Equations with Power Type Nonlinearities, **(with Samy Tindel)**, Stochastic Processes and their Applications 129.5 (2019): 1533-1555. <a href="https://doi.org/10.1016/j.spa.2018.05.010">Journal</a>, <a href="https://arxiv.org/abs/1708.04659">arXiv</a>. 
+9. Tiered Spectrum Measurement Markets for  joint Licensed and Unlicensed Secondary Access, **(with Arnob Ghosh and Vaneet Aggarwal)**, IEEE Transactions on Network Science and Engineering (2019), <a href="https://doi.org/10.1109/TNSE.2019.2921782">Journal</a>. 
 
-10. Population variation in total genetic risk of Hirschsprung disease from common RET, SEMA3 and NRG1 susceptibility polymorphisms, **(with Ashish Kapoor, Qian Jiang, Sumantra Chatterjee, Maria X. Sosa, Courtney Berrios, Aravinda Chakravarti)**, Human molecular genetics 24.10 (2015): 2997-3003. <a href="https://doi.org/10.1093/hmg/ddv051">Journal</a>.
+10. Rough Differential Equations with Power Type Nonlinearities, **(with Samy Tindel)**, Stochastic Processes and their Applications 129.5 (2019): 1533-1555. <a href="https://doi.org/10.1016/j.spa.2018.05.010">Journal</a>, <a href="https://arxiv.org/abs/1708.04659">arXiv</a>. 
+
+11. Population variation in total genetic risk of Hirschsprung disease from common RET, SEMA3 and NRG1 susceptibility polymorphisms, **(with Ashish Kapoor, Qian Jiang, Sumantra Chatterjee, Maria X. Sosa, Courtney Berrios, Aravinda Chakravarti)**, Human molecular genetics 24.10 (2015): 2997-3003. <a href="https://doi.org/10.1093/hmg/ddv051">Journal</a>.
 
 
 
