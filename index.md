@@ -2,7 +2,7 @@
 layout: frontpage
 title: Prakash Chakraborty
 description: Prakash Chakraborty is an Assistant Professor at Penn State. 
-keywords: Prakash Chakraborty Purdue, Prakash, Chakraborty, Pennsylvania State University, mathematical finance, applied probability, probability, stochastic processes, rough path theory, operations research, Samy Tindel, Harsha Honnappa, Asaf Cohen, Kiseop Lee 
+keywords: Prakash Chakraborty Purdue, Prakash, Chakraborty, Pennsylvania State University, mathematical finance, applied probability, probability, stochastic processes, rough path theory, operations research, Samy Tindel, Harsha Honnappa, Asaf Cohen
 ---
 
 I am an Assistant Professor in the <a href="https://www.ime.psu.edu/">Harold and Inge Marcus Department of Industrial and Manufacturing Engineering</a> at <a href="https://www.psu.edu/">The Pennsylvania State University</a>.
