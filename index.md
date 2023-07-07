@@ -13,7 +13,8 @@ I got my PhD in 2020 from the <a href="https://www.stat.purdue.edu/">Department 
 
 Prior to joining Purdue, I completed a Bachelor of Statistics in 2013 and a Master of Statistics in 2015 from the <a href="https://www.isical.ac.in/">Indian Statistical Institute, Kolkata</a>. 
 
-I am broadly interested in Applied Probability, Queuing Systems, Stochastic Networks, Stochastic Control and Mean Field Games, Rough Path Theory and applications in Machine Learning. Here is a link to my [CV. ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+I am broadly interested in Applied Probability, Queuing Systems, Stochastic Networks, Stochastic Control and Mean Field Games, Rough Path Theory and applications in Machine Learning. 
+<!--Here is a link to my [CV. ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>-->
 
 
 ---
@@ -41,7 +42,7 @@ I am broadly interested in Applied Probability, Queuing Systems, Stochastic Netw
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
+          <!--<li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>-->
           <li><a href="https://scholar.google.com/citations?user=w_lng2oAAAAJ&hl=en&oi=ao">GoogleScholar</a></li>
 	  <li><a href="https://arxiv.org/search/?query=chakraborty%2C+prakash&searchtype=author&source=header">arXiv</a></li>
       </ul>
