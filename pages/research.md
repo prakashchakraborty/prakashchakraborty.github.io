@@ -3,7 +3,7 @@ layout: page
 title: Research
 description: Prakash Chakraborty's research
 ---
-
+<!-- 
 <h3>Research Interests</h3>
 
  I have a broad research interest in Probability and Stochastic Processes. During my postdoc I have worked on topics in stochastic control including optimal dividend allocation with <a href="https://sites.google.com/site/asafcohentau/">Prof. Asaf Cohen</a> and <a href="https://lsa.umich.edu/math/people/faculty/vryoung.html">Prof. Virginia Young</a>, and mean field control with finite agent approximations for regime switching jump diffusions with <a href="https://sites.lsa.umich.edu/erhan/">Prof. Erhan Bayraktar</a>. During my PhD I worked with <a href="https://www.math.purdue.edu/~stindel/">Prof. Samy Tindel</a> on Rough Paths, SDEs and SPDEs (in particular the parabolic Anderson model). In addition I worked on modeling heat conduction in semiconductors at small length-time scales which involved working with Levy processes. With <a href="https://www.stat.purdue.edu/~kiseop/">Prof. Kiseop Lee</a> I have worked on topics in mathematical finance including option pricing under partial information, statistical arbitrage and models for interactive markets. I have also worked on queuing theory, in particular, strong approximations and functional limits of some stochastic dynamic systems with <a href="https://engineering.purdue.edu/SSL/about">Prof. Harsha Honnappa</a>.
@@ -15,18 +15,18 @@ My future plans are as follows:
 2. Scaling limits which arise when one studies at some macroscopic length scale the properties of some possibly interacting microscopic stochastic dynamic systems and their optimal control. The limiting process and optimal value function often tends to have nice properties exhibiting propagation of chaos, symmetry or characterization in terms of fewer parameters, thus providing practical useful approximations to the often complicated microscopic stochastic systems.
 
 These could be achieved by considering different models arising out of applications in engineering, science and economics. 
+-->
 
 <h3>Publications and Preprints</h3>
 
-1. Bond Prices Under Information Asymmetry and a Short Rate with Instantaneous Feedback, **(with Kiseop Lee)**, Methodology and Computing in Applied Probability (2022) 24 (2), 613-634, <a href="https://doi.org/10.1093/hmg/ddv051](https://doi.org/10.1007/s11009-021-09922-1">Journal</a>.
+1. Mean field control and finite agent approximation for regime-switching jump diffusions, **(with Erhan Bayraktar)**, Applied Mathematics & Optimization (2023) 88 (2), 36, <a href="https://doi.org/10.1007/s00245-023-10015-3">Journal</a>,, <a href="https://arxiv.org/abs/2109.09134">arXiv</a>. 
 
+2. Optimal Dividends under Model Uncertainty, **(with Asaf Cohen and Virginia R. Young)**, SIAM Journal on Financial Mathematics (2023) 14 (2), 497-524, <a href="https://doi.org/10.1137/21M1447453">Journal</a>, <a href="https://arxiv.org/abs/2109.09137">arXiv</a>.
 
-2. Strong Embeddings for Transitory Queueing Model, **(with Harsha Honnappa)**, Mathematics of Operations Research (2022) 47 (2), 1048-1081, 
+3. Bond Prices Under Information Asymmetry and a Short Rate with Instantaneous Feedback, **(with Kiseop Lee)**, Methodology and Computing in Applied Probability (2022) 24 (2), 613-634, <a href="https://doi.org/10.1093/hmg/ddv051](https://doi.org/10.1007/s11009-021-09922-1">Journal</a>.
+
+4. Strong Embeddings for Transitory Queueing Model, **(with Harsha Honnappa)**, Mathematics of Operations Research (2022) 47 (2), 1048-1081, 
 <a href="https://arxiv.org/abs/1906.06740">arXiv</a>.
-
-3. Mean field control and finite agent approximation for regime-switching jump diffusions, **(with Erhan Bayraktar)**, Submitted, <a href="https://arxiv.org/abs/2109.09134">arXiv</a>. 
-
-4. Optimal Dividends under Model Uncertainty, **(with Asaf Cohen and Virginia R. Young)**, Submitted, <a href="https://arxiv.org/abs/2109.09137">arXiv</a>.
 
 5. A Many-Server Functional Strong Law For A Non-Stationary Loss Model, **(with Harsha Honnappa)**, Operations Research Letters (2021), <a href="https://doi.org/10.1016/j.orl.2021.03.004">Journal</a>, <a href="https://arxiv.org/abs/1912.13067">arXiv</a>.
 
