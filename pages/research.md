@@ -19,11 +19,11 @@ These could be achieved by considering different models arising out of applicati
 
 <h3>Publications and Preprints</h3>
 
-13. Pathwise Relaxed Optimal Control of Rough Differential Equations, **(with Harsha Honnappa and Samy Tindel)**, <a href="https://doi.org/10.48550/arXiv.2402.17900">arXiv</a>
+13. Pathwise Relaxed Optimal Control of Rough Differential Equations, **(with Harsha Honnappa and Samy Tindel)**, <a href="https://doi.org/10.48550/arXiv.2402.17900">arXiv</a>.
 
-12. Optimal Entry and Exit with Signature in Statistical Arbitrage, **(with Kiseop Lee and Boming Ning)**, <a href="https://doi.org/10.48550/arXiv.2309.16008">arXiv</a>
+12. Optimal Entry and Exit with Signature in Statistical Arbitrage, **(with Kiseop Lee and Boming Ning)**, <a href="https://doi.org/10.48550/arXiv.2309.16008">arXiv</a>.
 
-11. Mean field control and finite agent approximation for regime-switching jump diffusions, **(with Erhan Bayraktar)**, Applied Mathematics & Optimization (2023) 88 (2), 36, <a href="https://doi.org/10.1007/s00245-023-10015-3">Journal</a>,, <a href="https://arxiv.org/abs/2109.09134">arXiv</a>. 
+11. Mean field control and finite agent approximation for regime-switching jump diffusions, **(with Erhan Bayraktar)**, Applied Mathematics & Optimization (2023) 88 (2), 36, <a href="https://doi.org/10.1007/s00245-023-10015-3">Journal</a>, <a href="https://arxiv.org/abs/2109.09134">arXiv</a>. 
 
 10. Optimal Dividends under Model Uncertainty, **(with Asaf Cohen and Virginia R. Young)**, SIAM Journal on Financial Mathematics (2023) 14 (2), 497-524, <a href="https://doi.org/10.1137/21M1447453">Journal</a>, <a href="https://arxiv.org/abs/2109.09137">arXiv</a>.
 
