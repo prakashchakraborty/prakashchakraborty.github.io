@@ -3,6 +3,10 @@ layout: page
 title: Teaching
 description: Prakash Chakraborty's teaching
 ---
+**Spring 2024: Instructor, IE 516: Applied Stochastic Processes (The Pennsylvania State University).**
+
+**Fall 2023: Instructor, IE 322: IE 322: Probabilistic Models in Industrial Engineering (The Pennsylvania State University).**
+
 **Spring 2023: Instructor, IE 516: Applied Stochastic Processes (The Pennsylvania State University).**
 
 **Fall 2022: Instructor, IE 322: IE 322: Probabilistic Models in Industrial Engineering (The Pennsylvania State University).**
