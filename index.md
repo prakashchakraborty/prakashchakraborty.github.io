@@ -27,7 +27,7 @@ I am broadly interested in Applied Probability, Queuing Systems, Stochastic Netw
         <div class="span5">
             Prakash Chakraborty<br/>
             Email: <a href="mailto:prakashc@psu.edu">prakashc@psu.edu</a><br/>
-            Office: 206 Leonhard Building<br/>
+            Office: 219 Leonhard Building<br/>
             Address: 310 Leonhard Building, The Pennsylvania State University, University Park, PA 16802-4400<br/>
         </div>
 
