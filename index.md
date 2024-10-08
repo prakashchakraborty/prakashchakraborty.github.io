@@ -9,9 +9,9 @@ I am an Assistant Professor in the <a href="https://www.ime.psu.edu/">Harold and
 
 Previously I was a Byrne Research (Postdoctoral) Assistant Professor in the <a href="https://lsa.umich.edu/math">Department of Mathematics</a> at <a href="https://umich.edu">University of Michigan</a>. <!--where I worked with Professors <a href="https://sites.lsa.umich.edu/erhan/">Erhan Bayraktar</a>, <a href="https://sites.google.com/site/asafcohentau/">Asaf Cohen</a> and <a href="https://lsa.umich.edu/math/people/faculty/vryoung.html">Virginia R. Young</a>. -->
 
-I got my PhD in 2020 from the <a href="https://www.stat.purdue.edu/">Department of Statistics</a> at <a href="https://www.purdue.edu/">Purdue University</a>, advised by Professors <a href="https://www.math.purdue.edu/~stindel/">Samy Tindel</a>, <a href="https://www.stat.purdue.edu/~kiseop/">Kiseop Lee</a> and <a href="https://engineering.purdue.edu/SSL/about">Harsha Honnappa</a>. 
+I got my PhD from the <a href="https://www.stat.purdue.edu/">Department of Statistics</a> at <a href="https://www.purdue.edu/">Purdue University</a>.
 
-Prior to joining Purdue, I completed a Bachelor of Statistics in 2013 and a Master of Statistics in 2015 from the <a href="https://www.isical.ac.in/">Indian Statistical Institute, Kolkata</a>. 
+Prior to joining Purdue, I completed a Bachelor of Statistics and a Master of Statistics from the <a href="https://www.isical.ac.in/">Indian Statistical Institute, Kolkata</a>. 
 
 I am broadly interested in Applied Probability, Queuing Systems, Stochastic Networks, Stochastic Control and Mean Field Games, Rough Path Theory and applications in Machine Learning. 
 <!--Here is a link to my [CV. ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>-->
